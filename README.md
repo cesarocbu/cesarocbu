@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&center=true&vCenter=true&width=1200&height=100&lines=Hi+there!+I'm+Cesar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5500&color=D5E2F7&center=true&vCenter=true&width=1200&height=200&lines=Hi+there!+I'm+Cesar)](https://git.io/typing-svg)
 
-Im a Junior Developer 👨🏻‍💻
+-Im a Junior Developer 👨🏻‍💻
 <br>
 -Currently learning JavaScript
 
