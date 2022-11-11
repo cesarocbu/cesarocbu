@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarocbu&label=Profile%20views&color=0e75b6&style=flat" alt="cesarocbu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarocbu" alt="cesarocbu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cesarocbu" target="blank"><img src="https://img.shields.io/twitter/follow/cesarocbu?logo=twitter&style=for-the-badge" alt="cesarocbu" /></a> </p>
 
